@@ -3,9 +3,9 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: _site/index.html
+      href: index.html
     - text: "About"
-      href: _site/about.html
+      href: about.html
     - text: "coucou"
-      href: _site/coucou.html
+      href: coucou.html
 
