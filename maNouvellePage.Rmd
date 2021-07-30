@@ -1,4 +1,6 @@
-
+---
+title: "title obligatoire"
+---
 
 ceci est une nouvelle page      
 
