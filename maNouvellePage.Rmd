@@ -1,3 +1,5 @@
 
 
 ceci est une nouvelle page      
+
+test : output_dir: "./_site"
